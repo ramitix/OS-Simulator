@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1462895536 source:/Users/ramitix/Ramy_Atalla_OS_Assignment/OperatingSystem/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<vector>
+	<string>
+	<queue>
+	<list>
+	<algorithm>
+	"PCB.h"
+	"IODEVICES.h"
+	"Memory.h"
+	"CPU.h"
+
+1462896487 /Users/ramitix/Ramy_Atalla_OS_Assignment/OperatingSystem/PCB.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<vector>
+	<list>
+	<string>
+	<queue>
+	<algorithm>
+	"IODEVICES.h"
+	"Memory.h"
+	"CPU.h"
+
+1462896487 /Users/ramitix/Ramy_Atalla_OS_Assignment/OperatingSystem/IODEVICES.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<vector>
+	<string>
+	<list>
+	<queue>
+	<algorithm>
+	"PCB.h"
+	"Memory.h"
+	"CPU.h"
+
+1462896487 /Users/ramitix/Ramy_Atalla_OS_Assignment/OperatingSystem/Memory.h
+	<iostream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<vector>
+	<list>
+	<string>
+	<queue>
+	<algorithm>
+	"PCB.h"
+	"IODEVICES.h"
+	"CPU.h"
+
+1462897167 /Users/ramitix/Ramy_Atalla_OS_Assignment/OperatingSystem/CPU.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<vector>
+	<string>
+	<queue>
+	<list>
+	<algorithm>
+	"PCB.h"
+	"IODEVICES.h"
+	"Memory.h"
+
